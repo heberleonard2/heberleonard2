@@ -2,6 +2,7 @@
 ### Software engineer
 
 
+<a aligh="left" href="https://heberleonard.dev" target="_blank" rel="noreferrer noopener">heberleonard.dev</a>
 
  <a aligh="left" href="mailto:heber.leonard2@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/heber-leonard" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>  
 
